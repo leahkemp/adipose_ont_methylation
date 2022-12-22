@@ -1,7 +1,7 @@
 # 01 - Assumptions
 
 Created: 2022/12/22 13:55:37
-Last modified: 2022/12/22 14:00:03
+Last modified: 2022/12/22 14:01:08
 
 - **Aim:** This document documents/describes the assumptions for reproducing this analysis
 - **Prerequisite software:**
@@ -24,6 +24,8 @@ Last modified: 2022/12/22 14:00:03
 4. You have raw fast5 files for all runs for a given sample in a single directory named after the sample `fast5/sample_name/` within the project directory
 
 <details><summary markdown="span">Expected samples and raw fast5 files (click to expand)</summary>
+
+Click to see the expected raw fast5 files:
 
 - [AB526A](./expected_fast5_files/AB526A.txt)
 - [AB526B](./expected_fast5_files/AB526B.txt)
