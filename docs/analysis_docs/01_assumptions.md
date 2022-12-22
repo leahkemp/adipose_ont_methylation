@@ -1,7 +1,7 @@
 # 01 - Assumptions
 
 Created: 2022/12/22 13:55:37
-Last modified: 2022/12/22 14:01:08
+Last modified: 2022/12/22 14:01:33
 
 - **Aim:** This document documents/describes the assumptions for reproducing this analysis
 - **Prerequisite software:**
@@ -25,7 +25,6 @@ Last modified: 2022/12/22 14:01:08
 
 <details><summary markdown="span">Expected samples and raw fast5 files (click to expand)</summary>
 
-Click to see the expected raw fast5 files:
 
 - [AB526A](./expected_fast5_files/AB526A.txt)
 - [AB526B](./expected_fast5_files/AB526B.txt)
