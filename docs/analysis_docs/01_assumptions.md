@@ -1,7 +1,7 @@
 # 01 - Assumptions
 
 Created: 2022/12/22 13:55:37
-Last modified: 2022/12/22 13:55:56
+Last modified: 2022/12/22 13:57:42
 
 - **Aim:** This document documents/describes the assumptions for reproducing this analysis
 - **Prerequisite software:**
@@ -41,4 +41,4 @@ Last modified: 2022/12/22 13:55:56
 </details>
 <br/>
 
-See the expected raw fast5 files for [AB526A](./docs/analysis_docs/expected_fast5_files/AB526A.txt), [AB526B](./docs/analysis_docs/expected_fast5_files/AB526B.txt), [AB740A](./docs/analysis_docs/expected_fast5_files/AB740A.txt), [AB740B](./docs/analysis_docs/expected_fast5_files/AB740B.txt), [AB755A](./docs/analysis_docs/expected_fast5_files/AB755A.txt), [AB755B](./docs/analysis_docs/expected_fast5_files/AB755B.txt), [AB792A](./docs/analysis_docs/expected_fast5_files/AB792A.txt), [AB792B](./docs/analysis_docs/expected_fast5_files/AB792B.txt), [AB1052A](./docs/analysis_docs/expected_fast5_files/AB1052A.txt), [AB1052B](./docs/analysis_docs/expected_fast5_files/AB1052B.txt), [OM1052A](./docs/analysis_docs/expected_fast5_files/OM1052A.txt), [OM1052B](./docs/analysis_docs/expected_fast5_files/OM1052B.txt)
+See the expected raw fast5 files for [AB526A](./expected_fast5_files/AB526A.txt), [AB526B](./expected_fast5_files/AB526B.txt), [AB740A](./expected_fast5_files/AB740A.txt), [AB740B](./expected_fast5_files/AB740B.txt), [AB755A](./expected_fast5_files/AB755A.txt), [AB755B](./expected_fast5_files/AB755B.txt), [AB792A](./expected_fast5_files/AB792A.txt), [AB792B](./expected_fast5_files/AB792B.txt), [AB1052A](./expected_fast5_files/AB1052A.txt), [AB1052B](./expected_fast5_files/AB1052B.txt), [OM1052A](./expected_fast5_files/OM1052A.txt), [OM1052B](./expected_fast5_files/OM1052B.txt)
