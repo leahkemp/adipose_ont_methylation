@@ -16,6 +16,7 @@ This relates to the human adipose nanopore methylation project undertaken by the
 ## Analysis workflow for reproducing this analysis
 
 - [01 - Assumptions](https://github.com/leahkemp/adipose_ont_methylation/blob/main/docs/analysis_docs/01_assumptions.md)
+- [02 - Run ont_human_workflow](https://github.com/leahkemp/adipose_ont_methylation/blob/main/docs/analysis_docs/02_run_ont_human_workflow.md)
 
 ## Access
 
