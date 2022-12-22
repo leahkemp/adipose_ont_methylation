@@ -1,7 +1,7 @@
 # 01 - Assumptions
 
 Created: 2022/11/02 11:21:46
-Last modified: 2022/12/22 13:28:46
+Last modified: 2022/12/22 13:30:14
 
 - **Aim:** This document documents/describes the assumptions for reproducing this analysis
 - **Prerequisite software:**
@@ -23,7 +23,7 @@ Last modified: 2022/12/22 13:28:46
 
 4. You have raw fast5 files for all runs for a given sample in a single directory named after the sample `fast5/sample_name/` within the project directory
 
-<details><summary markdown="span">Expected raw fastq files for sample AB1052A (click to expand)</summary>
+<details><summary markdown="span">Expected raw fast5 files for sample AB1052A (click to expand)</summary>
 
 ```bash
 /NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/AB1052A/run1/20220428_0951_MN34909_FAQ66108_01bc7cc4/fast5/:
@@ -2874,7 +2874,7 @@ total 25G
 </details>
 <br/>
 
-<details><summary markdown="span">Expected raw fastq files for sample OM1052A (click to expand)</summary>
+<details><summary markdown="span">Expected raw fast5 files for sample OM1052A (click to expand)</summary>
 
 ```bash
 /NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/OM1052A/run1/20221114_0429_X5_FAQ91514_d446fbce/fast5_pass/:
@@ -6275,7 +6275,7 @@ total 67G
 </details>
 <br/>
 
-<details><summary markdown="span">Expected raw fastq files for sample OM1052B (click to expand)</summary>
+<details><summary markdown="span">Expected raw fast5 files for sample OM1052B (click to expand)</summary>
 
 ```bash
 /NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/OM1052B/run1/20221114_0435_X4_FAQ91628_563bb41e/fast5_pass/:
