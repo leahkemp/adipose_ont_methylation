@@ -1,10 +1,10 @@
-/NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/AB740B/run2/20221107_1541_MN34909_FAQ90890_11c77fa9/fast5_pass/:
+/NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/AB740B/run2/20221107_1541_MN34909_FAQ90890_11c77fa9/fast5_pass:
 total 289M
 -rw-rw-r-- 1 lkemp lkemp 65M Nov  7 15:51 FAQ90890_pass_4fe49fc1_0.fast5
 -rw-rw-r-- 1 lkemp lkemp 72M Nov  7 15:57 FAQ90890_pass_4fe49fc1_1.fast5
 -rw-rw-r-- 1 lkemp lkemp 80M Nov  7 16:06 FAQ90890_pass_4fe49fc1_2.fast5
 
-/NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/AB740B/run3/20221108_0352_X3_FAQ90788_a9aa1692/fast5_pass/:
+/NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/AB740B/run3/20221108_0352_X3_FAQ90788_a9aa1692/fast5_pass:
 total 132G
 -rw-rw-r-- 1 lkemp lkemp  67M Nov  8 16:59 FAQ90788_pass_a9aa1692_0bc6cbea_0.fast5
 -rw-rw-r-- 1 lkemp lkemp  51M Nov  8 16:59 FAQ90788_pass_a9aa1692_0bc6cbea_1.fast5
@@ -1427,7 +1427,7 @@ total 132G
 -rw-rw-r-- 1 lkemp lkemp  76M Nov 10 11:13 FAQ90788_pass_a9aa1692_0bc6cbea_1418.fast5
 -rw-rw-r-- 1 lkemp lkemp  66M Nov 10 12:03 FAQ90788_pass_a9aa1692_0bc6cbea_1419.fast5
 
-/NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/AB740B/run4/20221109_2348_X3_FAU76254_03178dc9/fast5_pass/:
+/NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/AB740B/run4/20221109_2348_X3_FAU76254_03178dc9/fast5_pass:
 total 88G
 -rw-rw-r-- 1 lkemp lkemp  59M Nov 10 12:55 FAU76254_pass_03178dc9_a724df73_0.fast5
 -rw-rw-r-- 1 lkemp lkemp  55M Nov 10 12:56 FAU76254_pass_03178dc9_a724df73_1.fast5
@@ -2482,7 +2482,7 @@ total 88G
 -rw-rw-r-- 1 lkemp lkemp  66M Nov 11 16:46 FAU76254_pass_03178dc9_a724df73_1050.fast5
 -rw-rw-r-- 1 lkemp lkemp 119M Nov 11 16:49 FAU76254_pass_03178dc9_a724df73_1051.fast5
 
-/NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/AB740B/run5/20221123_0506_X1_FAT86022_5648da04/fast5_pass/:
+/NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/AB740B/run5/20221123_0506_X1_FAT86022_5648da04/fast5_pass:
 total 75G
 -rw-rw-r-- 1 lkemp lkemp  60M Nov 23 18:12 FAT86022_pass_5648da04_eecf93fb_0.fast5
 -rw-rw-r-- 1 lkemp lkemp  50M Nov 23 18:13 FAT86022_pass_5648da04_eecf93fb_1.fast5
@@ -3398,3 +3398,7 @@ total 75G
 -rw-rw-r-- 1 lkemp lkemp 116M Nov 24 12:58 FAT86022_pass_5648da04_eecf93fb_911.fast5
 -rw-rw-r-- 1 lkemp lkemp  64M Nov 24 13:04 FAT86022_pass_5648da04_eecf93fb_912.fast5
 -rw-rw-r-- 1 lkemp lkemp  70M Nov 24 13:10 FAT86022_pass_5648da04_eecf93fb_913.fast5
+
+/NGS/clinicalgenomics/archive/2022/run/raw/adipose_ont_methylation/data/Adipose_AS_ours/AB740B/testasgrid/20221107_0310_X4_FAQ90890_da2ae150/fast5_pass:
+total 67M
+-rw-rw-r-- 1 lkemp lkemp 50M Nov  7 16:22 FAQ90890_pass_da2ae150_d5dbeccc_0.fast5
