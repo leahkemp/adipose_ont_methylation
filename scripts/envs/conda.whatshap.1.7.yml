@@ -1,7 +1,0 @@
-name: whatshap.1.7
-channels:
-  - conda-forge
-  - bioconda
-  - defaults
-dependencies:
-  - whatshap=1.7
