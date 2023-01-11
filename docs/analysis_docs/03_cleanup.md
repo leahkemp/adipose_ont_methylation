@@ -1,7 +1,7 @@
 # 03 - Cleanup
 
 Created: 2023/01/12 10:55:21
-Last modified: 2023/01/12 11:06:04
+Last modified: 2023/01/12 11:11:36
 
 - **Aim:** This document outlines how to back up the analyses on the dedicated space on production and cleanup
 - **Prerequisite software:** [rsync](https://rsync.samba.org/)
@@ -18,10 +18,11 @@ Last modified: 2023/01/12 11:06:04
 
 Minimal analyses have already been backed up at `/NGS/clinicalgenomics/archive/2022/results/adipose_ont_methylation/`
 
-Also backup the README before cleaning up
+Backup the README and logs before cleaning up
 
 ```bash
 rsync -av /NGS/humangenomics/active/2022/run/adipose_ont_methylation/README.md /NGS/clinicalgenomics/archive/2022/results/adipose_ont_methylation/
+rsync -av /NGS/humangenomics/active/2022/run/ont_human_workflow/logs/ /NGS/humangenomics/active/2022/run/adipose_ont_methylation/
 ```
 
 Cleanup analyses
