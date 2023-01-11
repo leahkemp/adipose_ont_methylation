@@ -1,7 +1,7 @@
 # 02 - Run ont_human_workflow
 
 Created: 2022/12/22 13:55:37
-Last modified: 2022/12/22 14:31:20
+Last modified: 2023/01/12 10:54:28
 
 - **Aim:** This document documents/describes running [ont_human_workflow](https://github.com/leahkemp/ont_human_workflow)
 - **Prerequisite software:**
@@ -15,4 +15,6 @@ Last modified: 2022/12/22 14:31:20
 
 ## Run ont_human_workflow
 
-The scripts that comprise [ont_human_workflow](https://github.com/leahkemp/ont_human_workflow) as of commit [f57cc4830b39289eafdb2f472f3ae441e351c0bc](https://github.com/leahkemp/ont_human_workflow/tree/f57cc4830b39289eafdb2f472f3ae441e351c0bc) have been included in this repository
+The scripts that comprise [ont_human_workflow](https://github.com/leahkemp/ont_human_workflow) as of commit [f57cc4830b39289eafdb2f472f3ae441e351c0bc](https://github.com/leahkemp/ont_human_workflow/tree/f57cc4830b39289eafdb2f472f3ae441e351c0bc) have been included in this repository.
+
+Run through the [analysis documentation for ont_human_workflow](https://github.com/leahkemp/ont_human_workflow/tree/f57cc4830b39289eafdb2f472f3ae441e351c0bc/docs/analysis_docs)
