@@ -10,7 +10,7 @@ This relates to the human adipose nanopore methylation project undertaken by the
 
 ## Analysis location
 
-- This analysis was for the most part carried out at `/NGS/humangenomics/active/2022/run/adipose_ont_methylation/` on ESR's production network
+- This analysis was for the most part carried out at `/NGS/humangenomics/active/2022/run/ont_human_workflow/` on ESR's production network
 - A minimal version of the analyses were stored/backed up at `/NGS/clinicalgenomics/archive/2022/results/adipose_ont_methylation/` on ESR's production network
 
 ## Analysis workflow for reproducing this analysis
