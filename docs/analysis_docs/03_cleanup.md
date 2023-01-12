@@ -1,11 +1,11 @@
 # 03 - Cleanup
 
 Created: 2023/01/12 10:55:21
-Last modified: 2023/01/13 12:32:14
+Last modified: 2023/01/13 12:38:26
 
 - **Aim:** This document outlines how to back up the analyses on the dedicated space on production and cleanup
 - **Prerequisite software:** [rsync](https://rsync.samba.org/)
-- **OS:**
+- **OS:** ORAC (CentOS Linux) (ESR production network)
 
 ## Table of contents
 

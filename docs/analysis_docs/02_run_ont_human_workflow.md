@@ -1,11 +1,11 @@
 # 02 - Run ont_human_workflow
 
 Created: 2022/12/22 13:55:37
-Last modified: 2023/01/12 11:06:14
+Last modified: 2023/01/13 12:38:45
 
 - **Aim:** This document documents/describes running [ont_human_workflow](https://github.com/leahkemp/ont_human_workflow)
-- **Prerequisite software:**
-- **OS:**
+- **Prerequisite software:** See software dependecies outlined in [ont_human_workflow](https://github.com/leahkemp/ont_human_workflow)
+- **OS:** ORAC (CentOS Linux) (ESR production network)
 
 ## Table of contents
 
