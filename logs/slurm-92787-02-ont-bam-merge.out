@@ -1,0 +1,112 @@
+Transaction
+
+  Prefix: /home/lkemp/miniconda3/envs/bamtools.2.5.2
+
+  Updating specs:
+
+   - bamtools=2.5.2
+
+
+  Package          Version  Build        Channel                    Size
+──────────────────────────────────────────────────────────────────────────
+  Install:
+──────────────────────────────────────────────────────────────────────────
+
+  + _libgcc_mutex      0.1  conda_forge  conda-forge/linux-64     Cached
+  + _openmp_mutex      4.5  2_gnu        conda-forge/linux-64     Cached
+  + bamtools         2.5.2  hd03093a_0   bioconda/linux-64        Cached
+  + libgcc-ng       12.2.0  h65d4601_19  conda-forge/linux-64     Cached
+  + libgomp         12.2.0  h65d4601_19  conda-forge/linux-64     Cached
+  + libstdcxx-ng    12.2.0  h46fd767_19  conda-forge/linux-64     Cached
+  + libzlib         1.2.13  h166bdaf_4   conda-forge/linux-64     Cached
+
+  Summary:
+
+  Install: 7 packages
+
+  Total download: 0 B
+
+──────────────────────────────────────────────────────────────────────────
+
+
+
+Looking for: ['bamtools=2.5.2']
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate bamtools.2.5.2
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+Transaction
+
+  Prefix: /home/lkemp/miniconda3/envs/sambamba.0.8.2
+
+  Updating specs:
+
+   - sambamba=0.8.2
+
+
+  Package               Version  Build        Channel                    Size
+───────────────────────────────────────────────────────────────────────────────
+  Install:
+───────────────────────────────────────────────────────────────────────────────
+
+  + _libgcc_mutex           0.1  conda_forge  conda-forge/linux-64     Cached
+  + _openmp_mutex           4.5  2_gnu        conda-forge/linux-64     Cached
+  + bzip2                 1.0.8  h7f98852_4   conda-forge/linux-64     Cached
+  + ldc                  1.28.1  hcf88599_0   conda-forge/linux-64     Cached
+  + libedit        3.1.20191231  he28a2e2_2   conda-forge/linux-64     Cached
+  + libgcc-ng            12.2.0  h65d4601_19  conda-forge/linux-64     Cached
+  + libgomp              12.2.0  h65d4601_19  conda-forge/linux-64     Cached
+  + libllvm12            12.0.1  hf817b99_2   conda-forge/linux-64     Cached
+  + libstdcxx-ng         12.2.0  h46fd767_19  conda-forge/linux-64     Cached
+  + libzlib              1.2.13  h166bdaf_4   conda-forge/linux-64     Cached
+  + lz4-c                 1.9.3  h9c3ff4c_1   conda-forge/linux-64     Cached
+  + ncurses                 6.3  h27087fc_1   conda-forge/linux-64     Cached
+  + sambamba              0.8.2  h98b6b92_2   bioconda/linux-64        Cached
+  + xz                    5.2.6  h166bdaf_0   conda-forge/linux-64     Cached
+  + zlib                 1.2.13  h166bdaf_4   conda-forge/linux-64     Cached
+
+  Summary:
+
+  Install: 15 packages
+
+  Total download: 0 B
+
+───────────────────────────────────────────────────────────────────────────────
+
+
+
+Looking for: ['sambamba=0.8.2']
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+#
+# To activate this environment, use
+#
+#     $ conda activate sambamba.0.8.2
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+sambamba 0.8.2
+ by Artem Tarasov and Pjotr Prins (C) 2012-2021
+    LDC 1.28.1 / DMD v2.098.1 / LLVM12.0.0 / bootstrap LDC - the LLVM D compiler (1.28.1)
+
+
+sambamba 0.8.2
+ by Artem Tarasov and Pjotr Prins (C) 2012-2021
+    LDC 1.28.1 / DMD v2.098.1 / LLVM12.0.0 / bootstrap LDC - the LLVM D compiler (1.28.1)
+
