@@ -1,7 +1,7 @@
 # 01 - Assumptions
 
 Created: 2022/12/22 13:55:37
-Last modified: 2023/01/13 12:38:32
+Last modified: 2023/01/19 16:36:15
 
 - **Aim:** This document documents/describes the assumptions for reproducing this analysis
 - **Prerequisite software:**
@@ -31,6 +31,10 @@ Last modified: 2023/01/13 12:38:32
 - [AB1052B](./expected_fast5_files/Adipose_AS_ours/AB1052B.txt)
 - [OM1052A](./expected_fast5_files/Adipose_AS_ours/OM1052A.txt)
 - [OM1052B](./expected_fast5_files/Adipose_AS_ours/OM1052B.txt)
+
+New extraction
+
+- [AB1052A](./expected_fast5_files/Adipose_AS_ours/new_extraction/AB1052A.txt)
 
 </details>
 <br/>
