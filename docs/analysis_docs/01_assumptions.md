@@ -1,7 +1,7 @@
 # 01 - Assumptions
 
 Created: 2022/12/22 13:55:37
-Last modified: 2023/01/19 16:36:15
+Last modified: 2023/02/08 12:01:15
 
 - **Aim:** This document documents/describes the assumptions for reproducing this analysis
 - **Prerequisite software:**
@@ -32,10 +32,6 @@ Last modified: 2023/01/19 16:36:15
 - [OM1052A](./expected_fast5_files/Adipose_AS_ours/OM1052A.txt)
 - [OM1052B](./expected_fast5_files/Adipose_AS_ours/OM1052B.txt)
 
-New extraction
-
-- [AB1052A](./expected_fast5_files/Adipose_AS_ours/new_extraction/AB1052A.txt)
-
 </details>
 <br/>
 
@@ -45,6 +41,20 @@ New extraction
 - [AB755B](./expected_fast5_files/Adipose_AS_RRMS/AB755B.txt)
 - [OM1052A](./expected_fast5_files/Adipose_AS_RRMS/OM1052A.txt)
 - [OM1052B](./expected_fast5_files/Adipose_AS_RRMS/OM1052B.txt)
+
+</details>
+<br/>
+
+<details><summary markdown="span">Expected samples and raw fast5 files for Adipose_AS_ours_new_extraction (click to expand and click hyperlinks to see expected raw fast5 files)</summary>
+
+- [AB740A](./expected_fast5_files/Adipose_AS_ours_new_extraction/AB740A.txt)
+- [AB740B](./expected_fast5_files/Adipose_AS_ours_new_extraction/AB740B.txt)
+- [AB792A](./expected_fast5_files/Adipose_AS_ours_new_extraction/AB792A.txt)
+- [AB792B](./expected_fast5_files/Adipose_AS_ours_new_extraction/AB792B.txt)
+- [AB1052A](./expected_fast5_files/Adipose_AS_ours_new_extraction/AB1052A.txt)
+- [AB1052B](./expected_fast5_files/Adipose_AS_ours_new_extraction/AB1052B.txt)
+- [OM1052A](./expected_fast5_files/Adipose_AS_ours_new_extraction/OM1052A.txt)
+- [OM1052B](./expected_fast5_files/Adipose_AS_ours_new_extraction/OM1052B.txt)
 
 </details>
 <br/>
