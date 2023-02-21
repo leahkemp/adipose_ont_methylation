@@ -1,7 +1,7 @@
 # 01 - Assumptions
 
 Created: 2022/12/22 13:55:37
-Last modified: 2023/02/08 12:01:15
+Last modified: 2023/02/22 10:29:56
 
 - **Aim:** This document documents/describes the assumptions for reproducing this analysis
 - **Prerequisite software:**
@@ -55,6 +55,15 @@ Last modified: 2023/02/08 12:01:15
 - [AB1052B](./expected_fast5_files/Adipose_AS_ours_new_extraction/AB1052B.txt)
 - [OM1052A](./expected_fast5_files/Adipose_AS_ours_new_extraction/OM1052A.txt)
 - [OM1052B](./expected_fast5_files/Adipose_AS_ours_new_extraction/OM1052B.txt)
+
+</details>
+<br/>
+
+<details><summary markdown="span">Expected samples and raw fast5 files for Adipose_AS_RRMS_new_extraction (click to expand and click hyperlinks to see expected raw fast5 files)</summary>
+
+- [AB740B](./expected_fast5_files/Adipose_AS_RRMS_new_extraction/AB740B.txt)
+- [AB792A](./expected_fast5_files/Adipose_AS_RRMS_new_extraction/AB792A.txt)
+- [OM1052B](./expected_fast5_files/Adipose_AS_RRMS_new_extraction/OM1052B.txt)
 
 </details>
 <br/>
