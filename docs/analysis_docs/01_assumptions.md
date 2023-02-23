@@ -1,7 +1,7 @@
 # 01 - Assumptions
 
 Created: 2022/12/22 13:55:37
-Last modified: 2023/02/22 10:29:56
+Last modified: 2023/02/24 10:38:22
 
 - **Aim:** This document documents/describes the assumptions for reproducing this analysis
 - **Prerequisite software:**
@@ -59,11 +59,8 @@ Last modified: 2023/02/22 10:29:56
 </details>
 <br/>
 
-<details><summary markdown="span">Expected samples and raw fast5 files for Adipose_AS_RRMS_new_extraction (click to expand and click hyperlinks to see expected raw fast5 files)</summary>
+---
 
-- [AB740B](./expected_fast5_files/Adipose_AS_RRMS_new_extraction/AB740B.txt)
-- [AB792A](./expected_fast5_files/Adipose_AS_RRMS_new_extraction/AB792A.txt)
-- [OM1052B](./expected_fast5_files/Adipose_AS_RRMS_new_extraction/OM1052B.txt)
+Note. the data from the "Adipose_AS_RRMS_new_extraction" experiment has not yet been analysed. If additional data is sequenced, one should re-analyse all data for that sample.
 
-</details>
-<br/>
+---
